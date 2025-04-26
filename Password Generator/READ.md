@@ -1,1 +1,0 @@
-Simple strong password generator.
